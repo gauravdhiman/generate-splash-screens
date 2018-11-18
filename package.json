@@ -1,0 +1,15 @@
+{
+  "name": "generate-splash-screens",
+  "version": "1.0.0",
+  "description": "Generate PNG splash screens and icons based with given dimensions for all mobile form factors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Dhiman <gauravd.chd@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "util": "^0.11.1",
+    "webshot-cli": "^0.3.1"
+  }
+}
